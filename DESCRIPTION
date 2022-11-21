@@ -1,12 +1,12 @@
 Package: ggJAGS
 Type: Package
-Title: What the Package Does (Title Case)
+Title: GGPlot Functions for Bayesian Models Run in JAGS
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Ana Miller-ter Kuile
+Maintainer: Ana Miller-ter Kuile <ana.miller.ter.kuile@gmail.com>
+Description: This package generates plots for various steps along the way for Bayesian models run
+in JAGS and R. These steps include 1) convergence, 2) goodness-of-fit, and 3) model reporting.
+License: CC0 License
 Encoding: UTF-8
 LazyData: true
 Imports: tidyverse,
